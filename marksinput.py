@@ -1,0 +1,1 @@
+std1 = int(input("Enter you 1st sub marks: "))

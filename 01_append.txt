@@ -1,0 +1,5 @@
+f =open ("01_anotherSAMPLE.txt","a")
+
+f.write("this is a append from 01 append")
+
+f.close()
